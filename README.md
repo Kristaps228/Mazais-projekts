@@ -7,7 +7,8 @@ Sudoku ir mīkla, kurā jāizvieto ciparus tā, lai katrā mīklas rindā, kolon
 Klasiskā sudoku izmērs is 9x9 rūtiņas, kas sadalītas deviņos blokos.
 
 ## Galvenās funkcijas
-	
+Spēles lauka rutiņas jāaizpilda ar cipariem no 1 līdz 9.	
+
 ## Izmantotās tehnoloģijas
 C++
 	
